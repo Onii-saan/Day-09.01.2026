@@ -1,0 +1,10 @@
+.carousel-item{
+    max-height: 107vh;
+}
+.card-img-top{
+    height: 200px;
+}
+.card:hover{
+    transition: 0.5s;
+    transform: scaleY(1.05);
+}
